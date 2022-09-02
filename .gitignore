@@ -1,0 +1,16 @@
+
+settings.py
+manage.py
+db.sqlite3
+*.pyc
+uploads/
+static/
+static/CACHE 
+venv
+*env
+core/settings.py
+.vscode/
+invoice/migrations/
+
+
+
